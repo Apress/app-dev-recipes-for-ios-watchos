@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  version="2.0">
+	
+    <channel>
+        <title>Mobile Device Price List</title>
+        <description>This is a list of the case options offered at our store.</description>
+        <item>
+            <title>Blackberry Red Case</title>
+            <price>19.00</price>
+			<taxable>YES</taxable>
+        </item>
+
+        <item>
+            <title>Blackberry Black Case</title>
+            <price>19.00</price>
+			<taxable>YES</taxable>
+        </item>
+
+        <item>
+            <title>Blackberry Green Case</title>
+            <price>19.00</price>
+			<taxable>YES</taxable>
+        </item>
+
+		 <item>
+            <title>iPhone 6 Silver Case</title>
+            <price>20.00</price>
+			<taxable>YES</taxable>
+        </item>
+
+		 <item>
+            <title>iPhone 6S Silver Case</title>
+            <price>20.00</price>
+			<taxable>YES</taxable>
+        </item>
+
+		 <item>
+            <title>iPhone 6 Plus Silver Case</title>
+            <price>30.00</price>
+			<taxable>YES</taxable>
+        </item>
+
+		 <item>
+            <title>iPhone 6S Plus Silver Case</title>
+            <price>30.00</price>
+			<taxable>YES</taxable>
+        </item>
+
+    </channel>
+</rss>
